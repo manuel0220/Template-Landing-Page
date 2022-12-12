@@ -50,7 +50,7 @@ ul {
 }
 
 .main-section {
-  background-image: url("/img/picture-image.jpg");
+  background-image: url("../img/picture-image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
